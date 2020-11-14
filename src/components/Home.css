@@ -1,0 +1,15 @@
+.bg {
+  height: 100%;
+  background-image: url("../images/fortnite-season-6_1538941185.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h4 {
+  font-family: "Turret Road", cursive;
+}
+
+h1 {
+  font-family: "Turret Road", cursive;
+}
